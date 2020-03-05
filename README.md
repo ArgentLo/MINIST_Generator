@@ -34,7 +34,7 @@ tqdm
 
 - When `--auto_gen=False`, `--gen_number=6` and `--min_length=3 --max_length=7`, the CLI API generates a set of digits sequences with random lengths.
 <p align="center">
-<img src="./res/example_seq1.png" alt="example_seq1" style="zoom:15%;" />
+<img src="./res/example_seq.png" alt="example_seq" style="zoom:15%;" />
 </p>
 
 ## Usage
