@@ -19,11 +19,13 @@ tqdm
 
 - This CLI API allows users to define `image_width`, `min_spacing` and `max_spacing`. A sample output is as follows:
 <p align="center">
-<img src="./res/gen_example1.png" alt="example1" style="zoom:15%;" />
+<img src="./res/gen_example1.png" alt="example1" style="width:200px;" />
 </p>
 
 - When `--auto_gen=False`, the CLI API generates a single image for a given `--number`.
-![example_single](./res/example_single.png)
+<p align="center">
+<img src="./res/example_single.png" alt="example_single" />
+</p>
 
 - When `--auto_gen=True`, the CLI API generates a set of digits sequences.
 <p align="center">
