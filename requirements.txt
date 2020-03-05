@@ -1,0 +1,4 @@
+python==3
+cv2
+numpy
+argparse
