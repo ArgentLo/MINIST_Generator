@@ -27,14 +27,14 @@ tqdm
 <img src="./res/example_single.png" alt="example_single" />
 </p>
 
-- When `--auto_gen=True`, the CLI API generates a set of digits sequences.
+- When `--auto_gen=True` and `--gen_number=5`, the CLI API generates a set of digits sequences.
 <p align="center">
-<img src="./res/example_seq.png" alt="example_seq" style="zoom:0.0001%;" />
+<img src="./res/example_seq2.png" alt="example_seq2" style="zoom:0.0001%;" />
 </p>
 
-- When `--auto_gen=False` and `min_length=3, max_length=7`, the CLI API generates a set of digits sequences with random lengths.
+- When `--auto_gen=False`, `--gen_number=6` and `--min_length=3 --max_length=7`, the CLI API generates a set of digits sequences with random lengths.
 <p align="center">
-<img src="./res/example_seq2.png" alt="example_seq2" style="zoom:15%;" />
+<img src="./res/example_seq1.png" alt="example_seq1" style="zoom:15%;" />
 </p>
 
 ## Usage
