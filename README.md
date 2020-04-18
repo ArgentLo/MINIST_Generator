@@ -1,4 +1,5 @@
 # MNIST Digits Sequence Generator 
+
 This is the implementation of **Digits Sequence Generator**, where digits are randomly sampled from the [*MNIST*](http://yann.lecun.com/exdb/mnist/) dataset. 
 
 The main purpose is to generate a whole set of random digits sequences for further **Machine Learning Training**, e.g. "digits detection".
