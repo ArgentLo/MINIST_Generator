@@ -111,3 +111,4 @@ optional arguments:
                         Max Length of Digits desired. e.g. "6", then sequences
                         of length ~6 would be randomly generated.
 ```
+
