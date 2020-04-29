@@ -5,6 +5,7 @@ This is the implementation of **Digits Sequence Generator**, where digits are ra
 The main purpose is to generate a whole set of random digits sequences for further **Machine Learning Training**, e.g. "digits detection".
 
 
+
 ## Environment Requirement
 
 The code has been tested running under Python 3.6. The required packages are as follows:
